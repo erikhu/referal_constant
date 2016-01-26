@@ -1,0 +1,14 @@
+ 
+Autor: Erik Alexander Gonzalez Cardona
+Email: erikhuboy@gmail.com	
+
+Manual de configuracion:
+Se instala sobre escribiendo los archivos segun las rutas.
+
+Configuracion desde panel administrativo:
+
+Se puede hasta 7 casillas que generan ganancias segun la cantidad de referidos que tenga un usuario , 
+es una ganancia constante decidida por el administrador , con un nombre segun el nivel en el que se encuentre dicho usuario.
+
+Se puede usar menos de 7 premios , por ejemplo 3 , pero las demas casillas deben estan en 0 ( Principalmente la de cantidad de usuarios ).
+
